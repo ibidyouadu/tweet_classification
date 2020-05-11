@@ -1,0 +1,10 @@
+kwd,num_twt,num_sample,num_related,score
+outage,65,20,19,95.0
+blackout,8,8,3,37.5
+electricity,122,20,19,95.0
+electric,103,20,7,35.0
+power,1919,20,17,85.0
+fpl,89,20,18,90.0
+duke,73,20,4,20.0
+clay,51,20,0,0.0
+dukeenergy,14,14,13,92.85714285714286

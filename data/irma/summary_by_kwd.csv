@@ -1,0 +1,9 @@
+kwd,num_topic_related,num_dis_related,num_dmg_related,neg_sentiment,neut_sentiment,pos_sentiment
+blackout,3,2,2,2,0,1
+duke,24,24,21,5,5,15
+dukeenergy,14,14,11,6,4,4
+electric,21,18,16,9,6,7
+electricity,117,116,102,27,36,52
+fpl,88,83,82,32,31,25
+outage,64,64,60,8,49,7
+power,802,812,682,255,272,291
