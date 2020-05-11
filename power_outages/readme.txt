@@ -1,4 +1,4 @@
-power_outages is the code used to produce outages_daily.csv and outages_daily_normalized.csv from outages_original.xlsx
+power_outages.py is the code used to produce outages_daily.csv and outages_daily_normalized.csv from outages_original.xlsx
 
 There are also some functions to produce metrics and for finding patterns in the data using dynamic time warping and kmeans, mostly copied from some medium article. This was fruitless and can be ignored for the most part.
 
