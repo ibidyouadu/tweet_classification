@@ -1,0 +1,7 @@
+kwd,num_twt,num_sample,num_related,score
+home,3368,20,4,20.0
+house,2439,20,3,15.0
+tree,440,20,1,5.0
+roof,123,20,11,55.00000000000001
+shelter,446,20,13,65.0
+retirement,30,20,1,5.0

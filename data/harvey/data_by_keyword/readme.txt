@@ -1,0 +1,1 @@
+the tweet data sets from the parent folder but split up by keyword. mostly for archival purposes. the csv's ending with 'results' are results from labelling, not any modelling

@@ -1,0 +1,20 @@
+transportation -> close: two twt that are dis/dmg related but not transportation related. instead, they are pub health related
+
+transportation -> i45: one twt that is explicit in text that it is dis/dmg related, but the timestamp and phrasing "right now!" can provide necessary context
+
+transportation -> i45: one twt that is has unusual text pattern indicating positive sentiment via humor - "#WalmartAssociatesBeLike" gives the tweet a sarcastic, humorous mood. Link to picture shows damages but is not obvious from text
+
+
+
+
+
+
+
+
+
+
+keywords with no tweets: i69, i610, pwy, street, twy
+
+
+regarding some keywords with high num_twt but little to no tweeets:
+'street' filter has 1292 tweets and 'airport' has 1629 filtered tweets, yet 'street' came up with an empty spreadsheet and 'airport' came up with 1 twt. This is because the way the number of twt samples was determined was to take the square of the score and multiply by 100, then take the int() of that. So 'airport' at a score of 10% will get int(100 * 0.1^2) = int(1) = 1 tweet, while 'street' with a score of 5% gets int(100 * 0.05^2) = int(0.5) = 0 tweets. Thus this sampling method effectively elminates keywords with a score below 10%. 'parkway' and 'belt8' are an exception because of another layer on the sampling method: if the keyword filter returns less than 100 tweets, then those tweets are the sample

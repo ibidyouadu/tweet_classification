@@ -1,0 +1,7 @@
+user_id,lon,lat,created_at,text,state,county,city,topic_related,dis_related,dmg_related,sentiment
+94001295,-100.20041,34.424919,8/25/2017,"Spotr 3 miles E of CHILDRESS, TX @ 10:46 UTC Flood&gt;-Standing water curb high on Highway 287 in Childress.",Texas,Childress County,Childress,1,1,1,0
+{'$numberLong': '774715512332947456'},-95.3832,29.7629,8/30/2017,"As I drove in to work today, things were not the same. ???? Seeing the empty highways and the?? https://t.co/B9rX1sTLhW",Texas,Harris County,Houston,1,1,1,-1
+209229671,-94.7854,31.1861,9/3/2017,"Highway music rolling hard....J3 103 @ Diboll, Texas https://t.co/JTWD1Ygyta",Texas,Angelina County,Diboll,0,0,0,
+{'$numberLong': '780476339916713985'},-98.7047606,29.7506624,8/27/2017,#ToyotaofBoerne is #nowplaying Life Is A Highway by #RascalFlatts #cubevenue,Texas,Kendall County,Boerne,0,0,0,
+34918264,-94.33,30.21,8/27/2017,"At 1:40 PM, 5 NW Bevil Oaks [Hardin Co, TX] DEPT OF HIGHWAYS reports FLASH FLOOD #LCH https://t.co/Au311L37uD",Texas,Hardin County,Lumberton,1,1,1,0
+24454553,-95.4070703,29.7772765,9/16/2017,"Fatality on I-10 / Katy Fwy EB at Patterson overpass, person was laid out on fast lane of the highway. Pedestrian maybe? Check your people.",Texas,Harris County,Houston,1,0,0,-1

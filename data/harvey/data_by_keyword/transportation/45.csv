@@ -1,0 +1,11 @@
+user_id,lon,lat,created_at,text,state,county,city,topic_related,dis_related,dmg_related,sentiment
+17030306,-95.3832,29.7629,8/28/2017,#hurricaneharvey Main and 45 : 8/28/17 4pm the water is going down but more rain on the way for?? https://t.co/r6BYTALtPW,Texas,Harris County,Houston,0,1,0,0
+134986634,-106.49,31.76,8/23/2017,"temperature down 88??F -&gt; 83??F
+humidity up 33% -&gt; 45%",Texas,El Paso County,El Paso,0,0,0,
+{'$numberLong': '3009115341'},-98.2976933,29.2895604,8/28/2017,1 Brown Pelican (Pelecanus occidentalis) - Calaveras Lake (HOTE 100) - 2017-08-27 09:45 https://t.co/aYOaNYOYCy,Texas,Bexar County,Bernhardt Road,0,0,0,
+249818911,-95.19757,29.59905,9/11/2017,"Accident. two right lanes blocked. in #SeSide on I-45 Gulf Fwy Outbound after Scarsdale, stop and go traffic back to The S Sam Houston Pkwy",Texas,Harris County,Houston,1,0,0,0
+41679815,-96.79262,32.79482,9/1/2017,"Disabled cleared from ramp in #Dallas on 45 NB at Woodall Rodgers, stopped traffic back to Overton Rd, delay of 48 mins #DFWTraffic",Texas,Dallas County,Dallas,1,0,0,0
+249818911,-95.33066,29.72425,9/12/2017,"Stop and go traffic in #SeSide on I-45 gulf Fwy Inbound between Lockwood and 69, delay of 7 mins #traffic https://t.co/vuUN2yElDh",Texas,Harris County,Houston,1,0,0,0
+301690792,-95.28606128,29.6939373,8/27/2017,That's our cue-here we come! @ I-45 South https://t.co/z7TXj9VGtS,Texas,Harris County,Houston,0,0,0,
+249818911,-95.18423,29.5867,9/11/2017,"Accident. two right lanes blocked. in #SeSide on I-45 Gulf Fwy Outbound before Dixie Farm Rd., stop and go traffi... https://t.co/vuUN2yElDh",Texas,Harris County,Houston,1,0,0,0
+{'$numberLong': '2544250500'},-98.42925397,33.31444155,9/20/2017,"Severe Thunderstorm Warning including Jermyn TX, Jean TX, Loving TX until 7:45 PM CDT https://t.co/dc8e32l3Ta",Texas,Young County,USA,0,0,0,

@@ -1,0 +1,5 @@
+topic,dataset_tweets,keywords_tweets,label_size,topic_tweets,damage_tweets
+housing,281139,6690,1000,406,307
+power,243009,2258,2340,1763,1491
+pub_health,281139,1576,1103,539,429
+transport,281139,18665,995,821,177

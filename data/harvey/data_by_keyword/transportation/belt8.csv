@@ -1,0 +1,2 @@
+user_id,lon,lat,created_at,text,state,county,city,topic_related,dis_related,dmg_related,sentiment
+{'$numberLong': '890359620375646208'},-95.225593,29.605372,8/27/2017,"TRACKING HARVEY Weather Channel Live Coverage Hurricane Harvey * Live Co...4"" of rain in the last hour I45/Belt8 https://t.co/DYB61rcY9D",Texas,Harris County,Houston,0,1,0,0

@@ -1,0 +1,4 @@
+idx,user_id,lon,lat,created_at,text,county,city,topic_related,dis_related,dmg_related,sentiment
+227052,58624342,-96.77401775,32.79755357,8/31/2017,"15 Harris County deputies hospitalized for smoke inhalation after explosions, fire at Arkema plant?? https://t.co/MJ5nX0Zvml",Dallas County,Dallas,1,0,0,0
+242366,418878672,-96.6753006,33.02959824,9/15/2017,Survivor of Plano Mass Shooting Remains Hospitalized https://t.co/w7jf2p4pcu,Collin County,Plano,1,0,0,0
+513358,1325651840,-96.40899658,32.86940002,9/15/2017,Heather Locklear Hospitalized After Crashing Her Porsche In A Ditch https://t.co/t8G3XTHplR,Rockwall County,McLendon-Chisholm,1,0,0,0

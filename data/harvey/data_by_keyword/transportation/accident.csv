@@ -1,0 +1,101 @@
+user_id,lon,lat,created_at,text,state,county,city,topic_related,dis_related,dmg_related,sentiment
+244281354,-97.63852,30.40369,8/29/2017,Accident reported in #Austin on Dessau Rd at E Howard Ln #ATXtraffic https://t.co/8laei8iLor,Texas,Travis County,Austin,1,0,0,0
+244281354,-97.75634,30.24656,8/29/2017,Accident in #Austin on S 1st St at Mary St W #ATXtraffic https://t.co/8laei8iLor,Texas,Travis County,Austin,1,0,0,0
+41679815,-97.24064,32.6791,9/14/2017,"Accident in #SoutheastFortWorth on Lp 820 SB at Sun Vly Dr, stop and go traffic back to Hwy 287, delay of 3 mins #DFWTraffic",Texas,Tarrant County,Fort Worth,1,0,0,0
+244281354,-97.72177,30.39124,9/5/2017,Accident reported in #Austin on Burnet Rd at W Braker Ln #ATXtraffic https://t.co/8laei8iLor,Texas,Travis County,Austin,1,0,0,0
+249876171,-98.53494,29.48474,9/13/2017,"Accident, center lane blocked in #NorthSide on I-10 EB at Vance Jackson, stop and go traffic back to Lp 410, delay of 4 mins #traffic",Texas,Bexar County,San Antonio,1,0,0,0
+41679815,-97.06179,32.69147,8/31/2017,"Accident on entrance ramp in #Arlington on 360 SB at Mayfield Rd, stop and go traffic back to Arkansas Ln, delay of 2 mins #DFWTraffic",Texas,Tarrant County,Arlington,1,0,0,0
+41679815,-96.91743,32.75897,9/14/2017,"Accident. right shoulder blocked in #WestDallas on Lp 12 NB at 30, stop and go traffic back to Keeneland Pky, delay of 6 mins #DFWTraffic",Texas,Dallas County,Dallas,1,0,0,0
+244281354,-97.68752,30.35786,8/27/2017,Accident cleared in #Austin on 35 Frontage Rd NB at Rundberg Ln #ATXtraffic https://t.co/8laei8iLor,Texas,Travis County,Austin,1,0,0,0
+41679815,-96.66123,32.86403,9/6/2017,"Accident. two right lanes blocked in #Garland on 635 LBJ Fwy SB at NW Hwy, stopped traffic back to Jupiter Rd, delay of 11 mins #DFWTraffic",Texas,Dallas County,Garland,1,0,0,0
+250302410,-106.4509,31.77814,9/18/2017,Accident in #ElPaso on Gtwy Blvd E WB at TX-478 Lp #traffic https://t.co/nZ2qPGUpz9,Texas,El Paso County,El Paso,1,0,0,0
+244281354,-97.6716,30.42441,9/12/2017,Serious accident in #Austin on W Howard Ln at I 35 #ATXtraffic https://t.co/8laei8iLor,Texas,Travis County,Austin,1,0,0,-1
+249818911,-95.56188,29.76771,9/10/2017,Accident blocks the three left lanes in #WestSide on Sam Houston Tollway NB at Memorial #traffic https://t.co/vuUN2yElDh,Texas,Harris County,Houston,1,0,0,0
+249876171,-98.60991,29.62517,9/14/2017,"Accident cleared in #Bexar on I-10 EB at Camp Bullis Rd, stop and go traffic back to Ralph Fair, delay of 10 mins #traffic",Texas,Bexar County,San Antonio,1,0,0,0
+41679815,-96.68237,33.00241,8/28/2017,"Accident cleared in #Plano on Bush Tnpke EB at Jupiter Rd, stop and go traffic back to Custer Rd, delay of 8 mins #DFWTraffic",Texas,Collin County,Richardson,1,0,0,0
+244281354,-97.63938,30.20335,9/6/2017,"Accident cleared in #DelValle on TX-71 WB after FM 973, stop and go traffic back to Ross Rd, delay of 6 mins #ATXtraffic",Texas,Travis County,Austin,1,0,0,0
+244281354,-97.73533,30.24798,9/19/2017,"Accident in #Travis on I-35 NB at Riverside Dr, stop and go traffic back to Woodward St, delay of 5 mins #ATXtraffic https://t.co/8laei8iLor",Texas,Travis County,Austin,1,0,0,0
+41679815,-97.14185,32.83731,9/20/2017,"Accident cleared in #Bedford on 183 EB at Forest Rdg Dr, stop and go traffic back to NE Mall, delay of 10 mins #DFWTraffic",Texas,Tarrant County,Bedford,1,0,0,0
+41679815,-96.8559,32.91821,9/11/2017,"Accident blocks two left lanes in #NorthDallas on 635 LBJ Fwy EB after Marsh Ln, stop and go traffic back to 35e, delay of 8 mins",Texas,Dallas County,Farmers Branch,1,0,0,0
+244281354,-97.74706,30.22298,8/24/2017,Accident reported in #Austin on Woodward St at I 35 Service Rd NB #ATXtraffic https://t.co/8laei8iLor,Texas,Travis County,Austin,1,0,0,0
+41679815,-97.26416,32.83938,8/28/2017,"Accident, left lane blocked in #HaltomCity on 377 Frontage Rd SB at N Lp 820, stop and go traffic back to Watauga Rd, delay of 6 mins",Texas,Tarrant County,Haltom City,1,0,0,0
+250302410,-106.5827,31.9084,8/25/2017,Accident in #ElPaso on I 10 WB at Trans-Mountain #traffic https://t.co/nZ2qPHc0XJ,Texas,El Paso County,El Paso,1,0,0,0
+249818911,-95.22911,29.62775,9/9/2017,Closed due to accident in #SeSide on I-45 SB between Almeda Genoa and Fuqua #traffic https://t.co/vuUN2yElDh,Texas,Harris County,Houston,1,0,0,0
+249818911,-95.37877,29.68686,9/17/2017,"Accident. two left lanes blocked in #SouthSide on Hwy 288 SB after Holly Hall, stop and go traffic back to Yellowstone, delay of 2 mins",Texas,Harris County,Houston,1,0,0,0
+249818911,-95.75193,29.78541,9/8/2017,"Accident. all main lanes blocked. in #CincoRanch on I-10 Katy Fwy Outbound after Mason and before Hwy 99, stopped traffic back to Fry Rd.",Texas,Harris County,Katy Freeway,1,0,0,0
+41679815,-97.31673,32.8727,8/22/2017,"Accident, left lane blocked in #FortWorth on 35W NB at Basswood Blvd, stop and go traffic back to Western Ctr Blvd, delay of 3 mins",Texas,Tarrant County,Fort Worth,1,0,0,0
+249876171,-98.47958,29.51993,9/20/2017,"Accident, right lane blocked in #SanAntonio on Lp 410 EB approaching 281, stop and go traffic back to Blanco Rd, delay of 5 mins #traffic",Texas,Bexar County,San Antonio,1,0,0,0
+41679815,-96.92065,32.90728,9/13/2017,"Accident. two left lanes blocked in #FarmersBranch on 635 LBJ Fwy WB at Luna Rd, stopped traffic back to the Dallas Pkwy, delay of 54 mins",Texas,Dallas County,Farmers Branch,1,0,0,0
+41679815,-96.78912,32.92508,9/19/2017,"Accident. two right lanes blocked in #Dallas on 635 LBJ Fwy WB at Preston Rd, stopped traffic back to 75 Central Expwy, delay of 14 mins",Texas,Dallas County,Dallas,1,0,0,0
+249818911,-95.01287,29.77016,9/11/2017,Closed due to accident in #Harris on Spur 330 EB between Hwy 330 and Hwy 330 #traffic https://t.co/vuUN2yElDh,Texas,Harris County,Baytown,1,0,0,0
+244281354,-97.80688,30.11247,9/8/2017,Accident in #Buda on 35 Frontage Rd SB near FM 1327 #ATXtraffic https://t.co/8laei8iLor,Texas,Travis County,Austin,1,0,0,0
+249876171,-98.66365,29.44315,9/14/2017,"Accident cleared in #WestSide on Hwy 151 EB at Potranco, stop and go traffic back to Westover Hills, delay of 7 mins #traffic",Texas,Bexar County,San Antonio,1,0,0,0
+249818911,-95.51622,29.93707,9/15/2017,"Accident.  right lane blocked in #NwSide on N Sam Houston Tollway EB approaching Hwy 249, stop and go traffic back to Gessner Rd #traffic",Texas,Harris County,Houston,1,0,0,0
+41679815,-97.06242,32.72069,9/8/2017,"Accident, right lane blocked in #Arlington on 360 NB at Park Row Dr, stop and go traffic back to Arkansas Ln, delay of 4 mins #DFWTraffic",Texas,Tarrant County,Arlington,1,0,0,0
+41679815,-96.72299,32.79455,9/10/2017,Accident. three left lanes blocked in #Dallas on 30 WB at Ferguson Rd #DFWTraffic https://t.co/4NzBppXRvr,Texas,Dallas County,Dallas,1,0,0,0
+249818911,-95.19757,29.59905,9/11/2017,"Accident, two lanes blocked in #SeSide on I-45 Gulf Fwy Outbound after Scarsdale, stop and go traffic back to The S Sam Houston Pkwy",Texas,Harris County,Houston,1,0,0,0
+41679815,-97.0852,32.76,8/28/2017,"Accident cleared in #Arlington on 30 EB after Baird Farm Rd, stop and go traffic back to Eastchase Pky, delay of 14 mins #DFWTraffic",Texas,Tarrant County,Arlington,1,0,0,0
+249818911,-95.38622,29.59203,9/15/2017,"Accident, left lane blocked in #SouthSide on Hwy 288 S Fwy Inbound at The S Sam Houston Tollway, stop and go traffic back to Mchard #traffic",Texas,Harris County,Pearland,1,0,0,0
+244281354,-97.66525,30.28561,9/1/2017,"Accident in #Travis on Ed Bluestein Blvd SB at Mlk, stopped traffic back to Loyola Ln, delay of 11 mins #ATXtraffic https://t.co/8laei8iLor",Texas,Travis County,Austin,1,0,0,0
+249818911,-95.44265,30.12672,9/7/2017,"Accident, left lane blocked in #TheWoodlands on I-45 N Fwy Outbound before Rayford, stop and go traffic back to Spg Stuebner #traffic",Texas,Montgomery County,Rayford,1,0,0,0
+41679815,-96.7163,32.97537,9/11/2017,"Accident cleared in #Richardson on 75 SB at Campbell Rd, stop and go traffic back to Hwy 190, delay of 6 mins #DFWTraffic",Texas,Dallas County,Richardson,1,0,0,0
+250302410,-106.4614,31.77831,9/20/2017,"Accident, shoulder blocked in #ElPaso on I 10 WB at Piedras St #traffic https://t.co/nZ2qPGUpz9",Texas,El Paso County,El Paso,1,0,0,0
+244281354,-97.86692,30.39477,8/25/2017,Accident in #Austin on 620 near Steiner Ranch Boulevard #ATXtraffic https://t.co/8laei8iLor,Texas,Travis County,Austin,1,0,0,0
+249818911,-95.26918,29.60028,9/18/2017,Accident affecting the exit ramp in #SouthSide on Sam Houston Tollway WB at Telephone Rd #traffic https://t.co/vuUN2ymKeH,Texas,Harris County,Houston,1,0,0,0
+244281354,-97.8944,30.2183,8/30/2017,Accident in #Austin on FM 1826 at Slaughter Ln #ATXtraffic https://t.co/8laei8iLor,Texas,Travis County,Granada Estates,1,0,0,0
+244281354,-97.66377,30.29229,8/22/2017,"Accident in #Travis on US 183 SB at 51st St, stop and go traffic back to Hwy 290, delay of 8 mins #ATXtraffic https://t.co/8laei8iLor",Texas,Travis County,Austin,1,0,0,0
+41679815,-96.77357,32.84472,8/29/2017,"Accident, left lane blocked in #Dallas on 75 SB at University, stop and go traffic back to Midpark Rd, delay of 18 mins #DFWTraffic",Texas,Dallas County,University Park,1,0,0,0
+244281354,-97.74669,30.41907,8/30/2017,"Accident reported in #Austin on US 183 SB before Duval Rd, stop and go traffic back to Oak Knoll Dr, delay of 3 mins #ATXtraffic",Texas,Travis County,Austin,1,0,0,0
+41679815,-97.14185,32.83731,9/20/2017,"Accident. right center lane blocked in #Bedford on 183 EB at Forest Rdg Dr, stop and go traffic back to Bedford Rd, delay of 1 min",Texas,Tarrant County,Bedford,1,0,0,0
+41679815,-97.06042,32.7801,8/23/2017,"Accident, right lane blocked in #GrandPrairie on 360 SB at Carrier Pky, stop and go traffic back to Post &amp; Paddock Rd, delay of 3 mins",Texas,Tarrant County,Grand Prairie,1,0,0,0
+244281354,-97.64822,30.30024,8/29/2017,Accident reported in #Austin on Johnny Morris Rd at Loyola Ln #ATXtraffic https://t.co/8laei8iLor,Texas,Travis County,Austin,1,0,0,0
+41679815,-97.32896,32.83958,8/23/2017,"Accident. only center lane gets by in #NFtWorth on N Lp 820 EB near Mark IV Pky, stopped traffic back to Azle Ave, delay of 41 mins",Texas,Tarrant County,Saginaw,1,0,0,0
+41679815,-97.19937,32.66333,9/7/2017,"Accident. two left lanes blocked in #Arlington on Hwy 287 NB at Little Rd, stopped traffic back to Russell Curry Rd, delay of 26 mins",Texas,Tarrant County,Arlington,1,0,0,0
+244281354,-97.74413,30.19701,8/23/2017,Accident reported in #Austin on S Pleasant Vly Rd south of Teri Rd #ATXtraffic https://t.co/8laei8iLor,Texas,Travis County,Austin,1,0,0,0
+244281354,-97.76091,30.42624,9/8/2017,Accident in #Austin on Oak Knoll Dr at Three Oaks Cir #ATXtraffic https://t.co/8laei8iLor,Texas,Travis County,Austin,1,0,0,0
+244281354,-97.74193,30.2776,9/12/2017,Accident in #Austin on W 15th St at Lavaca St #ATXtraffic https://t.co/8laei8iLor,Texas,Travis County,Austin,1,0,0,0
+249876171,-98.52812,29.51642,9/7/2017,"Accident, left lane blocked in #SanAntonio on Lp 410 WB at Jackson Keller Rd, stop and go traffic back to McCullough Ave, delay of 6 mins",Texas,Bexar County,San Antonio,1,0,0,0
+249818911,-95.38118,29.7776,9/20/2017,"Accident cleared in #WestSide on I-10 katy Fwy Inbound at Taylor, stop and go traffic back to The W Lp, delay of 15 mins #traffic",Texas,Harris County,Houston,1,0,0,0
+249876171,-98.35539,29.55219,8/30/2017,"Accident. right lane blocked in #Bexar on I-35 SB after Judson Rd, stop and go traffic back to Schwab Rd, delay of 28 mins #traffic",Texas,Bexar County,San Antonio,1,0,0,0
+244281354,-97.87996,30.23948,8/22/2017,Accident cleared in #Austin on TX-71 WB at Hl Meadow Dr #ATXtraffic https://t.co/8laei8iLor,Texas,Travis County,Austin,1,0,0,0
+249818911,-95.2653,29.7696,8/24/2017,Accident involving an overturned 18 wheeler blocks all main lanes. in #Eastside on 610 E Lp NB between Market and... https://t.co/vuUN2yElDh,Texas,Harris County,Houston,1,0,0,0
+244281354,-97.67383,30.39923,8/28/2017,"Accident moved to right shoulder in #Austin on I 35 SB near Yager Ln, slow traffic back to Howard Ln, delay of 2 mins #ATXtraffic",Texas,Travis County,Austin,1,0,0,0
+41679815,-97.06107,32.82218,9/15/2017,"Accident moved to right shoulder in #FortWorth on 360 SB at Trinity Blvd, stop and go traffic back to 183, delay of 1 min #DFWTraffic",Texas,Tarrant County,Fort Worth,1,0,0,0
+244281354,-97.69759,30.25333,9/10/2017,Accident in #Austin on E 7th St at Shady Ln #ATXtraffic https://t.co/8laei8iLor,Texas,Travis County,Austin,1,0,0,0
+249876171,-98.48441,29.44028,9/2/2017,"Accident in #Downtown on I-35 SB at St Marys, stop and go traffic back to Pne St, delay of 3 mins #traffic https://t.co/UUKZ2x9VCU",Texas,Bexar County,San Antonio,1,0,0,0
+41679815,-96.71768,32.90035,9/16/2017,"Closed due to accident in #Dallas on 635 LBJ Fwy WB between Skillman St and Forest Ln, stopped traffic back to Jupiter Rd. #DFWTraffic",Texas,Dallas County,Dallas,1,0,0,0
+249818911,-95.24492,29.70585,9/20/2017,"Accident. two left lanes blocked. in #Pasadena on Hwy 225 La Porte Fwy WB at Allen Genoa, stopped traffic back to Preston, delay of 30 mins",Texas,Harris County,Houston,1,0,0,0
+41679815,-96.78059,32.92371,9/17/2017,"Accident. only right lane getting by in #Dallas on 635 LBJ Fwy WB at Park Central Dr, stopped traffic back to 75 Central Expwy #DFWTraffic",Texas,Dallas County,Dallas,1,0,0,0
+249818911,-95.3499,29.76161,8/22/2017,"Accident blocks 2 right lanes and a right shoulder in #Downtown on 69 eastex Fwy Inbound at The George R Brown, s... https://t.co/vuUN2yElDh",Texas,Harris County,Houston,1,0,0,0
+41679815,-97.06303,32.75952,8/25/2017,"Accident, left lane blocked in #Arlington on 30 WB after 360, stop and go traffic back to Belt Line Rd, delay of 11 mins #DFWTraffic",Texas,Tarrant County,Arlington,1,0,0,0
+41679815,-96.82051,32.92583,9/20/2017,"Accident, right lane blocked in #Dallas on 635 LBJ Fwy WB at Dallas N Tollway, stop and go traffic back to T I Blvd, delay of 17 mins",Texas,Dallas County,Dallas,1,0,0,0
+249818911,-95.55774,29.66094,9/10/2017,Accident. three left lanes blocked in #SwSide on Beltway W SB at 69 SW Fwy #traffic https://t.co/vuUN2yElDh,Texas,Harris County,Houston,1,0,0,0
+41679815,-96.7163,32.97537,8/21/2017,"Accident, right lane blocked in #Richardson on 75 NB at Campbell Rd, stopped traffic back to 635 Lbj Frwy, delay of 28 mins #DFWTraffic",Texas,Dallas County,Richardson,1,0,0,0
+244281354,-97.8525,30.40661,8/23/2017,Accident in #Austin on 620 at Four Points Dr #ATXtraffic https://t.co/8laei8iLor,Texas,Travis County,Austin,1,0,0,0
+249818911,-95.50965,29.93208,9/20/2017,"Accident. right shoulder blocked. in #Northside on Hwy 249 Inbound before The N Sam Houston Tollway, stop and go traffic back to Cypresswood",Texas,Harris County,Hudson,1,0,0,0
+41679815,-96.62488,32.79137,8/20/2017,Accident blocking right lane and entrance ramp in #Mesquite on 635 LBJ Fwy NB at Hwy 80 #DFWTraffic https://t.co/4NzBppXRvr,Texas,Dallas County,Mesquite,1,0,0,0
+244281354,-97.79545,30.14169,9/12/2017,"Accident in #Travis on I-35 NB before FM-1626, stop and go traffic back to FM-1327, delay of 6 mins #ATXtraffic https://t.co/8laei8iLor",Texas,Travis County,Austin,1,0,0,0
+250302410,-106.4312,31.82598,9/8/2017,Accident in #ElPaso on Fred Wilson Ave EB at Marshall Rd #traffic https://t.co/nZ2qPGUpz9,Texas,El Paso County,El Paso,1,0,0,0
+41679815,-96.8615,32.81216,9/12/2017,"Accident cleared in #Dallas on 35E NB at Commonwealth Dr, stop and go traffic back to Market Hall, delay of 5 mins #DFWTraffic",Texas,Dallas County,Dallas,1,0,0,0
+41679815,-96.72939,32.79184,9/8/2017,"Accident. only one lane to the left gets by in #Dallas on 30 EB at Lawnview Ave, stopped traffic back to Munger Blvd, delay of 14 mins",Texas,Dallas County,Dallas,1,0,0,0
+250302410,-106.555,31.85163,8/29/2017,Accident in #ElPaso on Resler Dr south of Belvidere St #traffic https://t.co/nZ2qPHc0XJ,Texas,El Paso County,El Paso,1,0,0,0
+41679815,-97.30728,32.74808,9/11/2017,"Accident cleared in #FortWorth on 30 WB at Hwy 287, stop and go traffic back to Woodhaven Blvd, delay of 10 mins #DFWTraffic",Texas,Tarrant County,Fort Worth,1,0,0,0
+244281354,-97.78607,30.16706,8/26/2017,Accident in #Austin on Slaughter Ln at S I 35 Frontage Rd #ATXtraffic https://t.co/8laei8iLor,Texas,Travis County,Austin,1,0,0,0
+41679815,-97.06177,32.77356,9/11/2017,"Accident has only the right shoulder getting by in #GrandPrairie on 360 SB at Brown Blvd, stopped traffic back to 183, delay of 30 mins",Texas,Tarrant County,Grand Prairie,1,0,0,0
+244281354,-97.74115,30.23375,9/16/2017,Accident in #Travis on I-35 SB at Oltorf St #ATXtraffic https://t.co/8laei8AmfZ,Texas,Travis County,Austin,1,0,0,0
+41679815,-96.44997,32.90914,9/13/2017,"Accident in #Rockwall on 30 WB at TX-205, stopped traffic back to FM-551, delay of 33 mins #DFWTraffic https://t.co/4NzBppXRvr",Texas,Rockwall County,Rockwall,1,0,0,0
+249876171,-98.56379,29.59961,8/21/2017,Major accident in #Bexar on Lp 1604 at NW Military Hwy #traffic https://t.co/UUKZ2x9VCU,Texas,Bexar County,San Antonio,1,0,0,-1
+244281354,-97.69459,30.36736,8/20/2017,Accident cleared in #Austin on N Lamar Blvd at Longspur Boulevard W #ATXtraffic https://t.co/8laei8iLor,Texas,Travis County,Austin,1,0,0,0
+41679815,-97.07601,32.75956,9/13/2017,"Accident, right lane blocked in #Arlington on 30 EB at Ballpark Wy, stop and go traffic back to Ctr St, delay of 4 mins #DFWTraffic",Texas,Tarrant County,Arlington,1,0,0,0
+41679815,-97.30728,32.74808,9/11/2017,"Accident. only left lane gets by in #FortWorth on 30 WB at Hwy 287, stopped traffic back to Beach St, delay of 8 mins #DFWTraffic",Texas,Tarrant County,Fort Worth,1,0,0,0
+41679815,-96.68302,32.87453,9/19/2017,"Accident cleared in #Dallas on 635 LBJ Fwy EB at Jupiter Rd., stop and go traffic back to T I Blvd, delay of 15 mins #DFWTraffic",Texas,Dallas County,Garland,1,0,0,0
+244281354,-97.79957,30.17243,8/27/2017,Major accident in #Austin on S 1st St at Slaughter Ln #ATXtraffic https://t.co/8laei8iLor,Texas,Travis County,Austin,1,0,0,0
+249818911,-95.49891,29.71676,8/24/2017,"Accident cleared in #SwSide on 69 SW Fwy Outbound at Hillcroft, stop and go traffic back to Weslayan, delay of 11 mins #traffic",Texas,Harris County,Houston,1,0,0,0
+244281354,-97.68636,30.38196,9/18/2017,Accident in #Austin on N Lamar Blvd near W Braker Ln #ATXtraffic https://t.co/8laei8AmfZ,Texas,Travis County,Austin,1,0,0,0
+244281354,-97.73385,30.26658,9/1/2017,Accident reported in #Austin on 35 Frontage Rd SB near E 7th St #ATXtraffic https://t.co/8laei8iLor,Texas,Travis County,Austin,1,0,0,0
+41679815,-96.73553,32.91154,9/5/2017,"Accident cleared in #Dallas on 635 LBJ Fwy EB at Abrams Rd, stop and go traffic back to 75 Central Expwy, delay of 6 mins #DFWTraffic",Texas,Dallas County,Dallas,1,0,0,0
+41679815,-96.86809,32.81608,8/24/2017,"Accident cleared to apex in #Dallas on 35E NB at 183, stop and go traffic back to Medical District Dr, delay of 5 mins #DFWTraffic",Texas,Dallas County,Dallas,1,0,0,0
+249818911,-95.15617,29.65484,8/21/2017,"Accident. left lane blocked in #EastSide on E Sam Houston Tollway SB at Fairmont Pkwy, stop and go traffic back to Spencer Hwy #traffic",Texas,Harris County,Pasadena,1,0,0,0
+244281354,-97.76406,30.19846,9/14/2017,"Accident reported clear in #Travis on I-35 NB at Stassney Ln, stop and go traffic back to Cabela's Dr, delay of 22 mins #ATXtraffic",Texas,Travis County,Austin,1,0,0,0
+41679815,-96.80277,33.01243,8/21/2017,"Accident. two left lanes blocked in #Plano on Bush Tnpke WB near Preston Rd, stopped traffic back to Coit Rd, delay of 13 mins #DFWTraffic",Texas,Collin County,Dallas,1,0,0,0
+249876171,-98.51124,29.39618,8/30/2017,"Accident, right lane blocked in #Downtown on I-10 WB approaching I-35, stop and go traffic back to S Hackberry St, delay of 10 mins #traffic",Texas,Bexar County,San Antonio,1,0,0,0

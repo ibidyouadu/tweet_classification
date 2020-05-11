@@ -1,0 +1,13 @@
+kwd,num_twt,num_sample,num_related,score
+hospital,330,20,3,15.0
+hospitalize,3,3,3,100.0
+hospitalise,0,0,0,
+injure,28,20,9,45.0
+injury,80,20,7,35.0
+casualty,11,11,2,18.181818181818183
+fatality,12,12,12,100.0
+dead,193,20,3,15.0
+die,323,20,3,15.0
+rescue,482,20,10,50.0
+miss,1541,20,1,5.0
+evacuate,135,20,18,90.0

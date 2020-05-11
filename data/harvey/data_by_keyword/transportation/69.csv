@@ -1,0 +1,22 @@
+user_id,lon,lat,created_at,text,state,county,city,topic_related,dis_related,dmg_related,sentiment
+249818911,-95.49181,29.72345,8/27/2017,Exit blocked due to flooding. in #SwSide on I-69 SW Fwy Outbound after The Westpark Tollway #traffic https://t.co/vuUN2yElDh,Texas,Harris County,Houston,1,1,1,0
+249818911,-95.49181,29.72345,9/4/2017,"Accident, center lane blocked in #SwSide on 69 SW Fwy NB at The Westpark Tollway, stop and go traffic back to Hillcroft, delay of 2 mins",Texas,Harris County,Houston,1,0,0,0
+249818911,-95.49181,29.72345,8/27/2017,Closed due to flooding. in #SwSide on I-69 SW Fwy Outbound after The Westpark Tollway #traffic https://t.co/vuUN2yElDh,Texas,Harris County,Houston,1,1,1,0
+249818911,-95.46023,29.72903,9/6/2017,"Stop and go traffic on 610 W Lp NB between 69 The SW Fwy and Old Katy Rd., delay of 13 mins #traffic https://t.co/vuUN2yElDh",Texas,Harris County,Houston,1,0,0,0
+138288522,-96.7,33.02,9/14/2017,"temperature down 81Â°F -&gt; 69Â°F
+
+humidity down 50% -&gt; 49%
+
+wind 5mph -&gt; 9mph",Texas,Collin County,Plano,0,0,0,
+94460755,-97.33,32.75,9/5/2017,"temperature down 75Â°F -&gt; 72Â°F
+
+humidity up 69% -&gt; 82%",Texas,Tarrant County,Fort Worth,0,0,0,
+249818911,-95.74657,29.54649,8/27/2017,All main lanes closed due to high water in #Richmond on US-69 NB at 762 #traffic https://t.co/vuUN2ymKeH,Texas,Fort Bend County,Dolce Living Rosenberg Apartment Homes,1,1,1,0
+221225938,-94.93,29.39,9/10/2017,"temperature down 76Â°F -&gt; 72Â°F
+
+humidity up 61% -&gt; 69%",Texas,Galveston County,Texas City,0,0,0,
+123106979,-94.81,29.3,9/15/2017,"scattered clouds -&gt; few clouds
+
+temperature down 83Â°F -&gt; 76Â°F
+
+humidity up 69% -&gt; 74%",Texas,Galveston County,Galveston,0,0,0,
