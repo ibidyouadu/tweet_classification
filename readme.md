@@ -1,7 +1,7 @@
 # BERT Tweet Classifier with Keyword Neighbors
 
 ## In a nutshell
-This contains all data, code, results, etc. for a tweet classification project as a part of my work with [Dr. Wenying Ji's civil engineering research group.](http://mason.gmu.edu/~wji2/team.xhtml)
+This contains all data, code, results, etc. for a tweet classification project as a part of my work with [Dr. Wenying Ji's civil engineering research group at George Mason University.](http://mason.gmu.edu/~wji2/team.xhtml)
 
 This project tackles the broad question *Can we use social media data (tweets) to assess the severity of natural disasters?* and more specifically addresses the question *Will using context surrounding keywords in tweets provide better results for text classifiers to label tweets as related to power infrastructure or not?*
 
